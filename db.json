@@ -3,11 +3,7 @@
         {
             "company": {
                 "id": "0f2861a4-c001-42bd-8004-0f4a8cf8fec9"
-            },
-            "firstEventDate": "2022-01-01"
+            }
         }
-    ],
-    "overhead-updates/0f2861a4-c001-42bd-8004-0f4a8cf8fec9": {
-        "events": "test"
-    }
+    ]
 }
