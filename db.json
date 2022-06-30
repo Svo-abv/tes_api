@@ -19,7 +19,7 @@
                 "type": "PRIMARY",
                 "corrected": {
                     "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-                    "lineNumber": "string"
+                    "lineNumber": 1 
                 },
                 "date": "2022-05-12T23:59:59.9999",
                 "purpose": "Оплата услуг по договору б/н от н/д в соответствии с х.з.",
@@ -60,7 +60,7 @@
                 "type": "PRIMARY",
                 "corrected": {
                     "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-                    "lineNumber": "string"
+                    "lineNumber": 1
                 },
                 "date": "2022-05-12T23:59:59.9999",
                 "purpose": "Оплата услуг по договору б/н от н/д в соответствии с х.з.",
