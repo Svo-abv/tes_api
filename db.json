@@ -49,7 +49,50 @@
                     "title": "string"
                 },
                 "amount": 29432.15
+            },
+            {
+                "document": {
+                    "id": "d7af486e-f8f8-4406-9ea0-a211517e2162",
+                    "lineNumber": 3,
+                    "description": "Платежное поручение х113",
+                    "url": "e1cib/data/Документ.ПлатжноеПоручение?ref=d7af486ef8f844069ea0a211517e2162\n"
+                },
+                "type": "PRIMARY",
+                "corrected": {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "lineNumber": "string"
+                },
+                "date": "2022-05-12T23:59:59.9999",
+                "purpose": "Оплата услуг по договору б/н от н/д в соответствии с х.з.",
+                "masterItem": {
+                    "id": "4fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "title": "string"
+                },
+                "salesExpenses": true,
+                "responsibilityCenter": {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "title": "string"
+                },
+                "contour": {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "title": "string"
+                },
+                "company": {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "title": "string"
+                },
+                "contractor": {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "title": "string"
+                },
+                "fundsSource": {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "title": "string"
+                },
+                "amount": 7088.15
             }
+
+
         ],
         "continuationToken": null
     }
